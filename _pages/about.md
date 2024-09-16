@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student in Computational Psycholinguistics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>5503B, Dragvoll, Edvard Bulls veg 1</p>
+    <p>Trondheim, Norway</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD Candidate at Norwegian University of Science and Technology (NTNU), supervised by [Dave Kush](https://davewkush.github.io/) and co-supervised by [Tal Linzen](https://tallinzen.net/). I am affiliated with [Øy(e)lab/EyeLands Lab](https://davewkush.github.io/oeyelab.html) at NTNU/University of Toronto and [FORMAAL research group](https://www.ntnu.edu/isl/formaal) at NTNU. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am in the final stages of a PhD in Computational Psycholinguistics -- at the intersection of Language Acquisition, Computational Linguistics, and Experimental Syntax. For my PhD-project, I trained several statistical and neural language models to explore their ability to learn a specific linguistic phenomenomenon in Norwegian -- namely, filler-gap dependencies and island constraints on them. Currently, I am writing my dissertation on what these models and their successes and failures can reveal about the nature of human language learning and the input data which humans and models learn from.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Job opportunity announcement:** I am currently looking for positions within natural language processing/data analysis in and around Oslo, starting from January 2025.
