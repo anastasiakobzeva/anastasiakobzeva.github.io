@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: PhD Student in Computational Psycholinguistics
+subtitle: PhD Candidate in Computational Psycholinguistics
 
 profile:
   align: right
