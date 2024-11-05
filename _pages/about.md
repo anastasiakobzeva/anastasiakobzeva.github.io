@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: <meta name="google-site-verification" content="wpa-VdiBMhJ3UNTtANvq3wRaGVMPjPwq2chjCIHcnJQ" />
+subtitle: PhD Candidate in Computational Psycholinguistics
 
 profile:
   align: right
