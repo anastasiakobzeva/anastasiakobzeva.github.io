@@ -7,7 +7,8 @@ first_name: Anastasia
 middle_name:
 last_name: Kobzeva
 email: anastasia.kobzeva@ntnu.no
-description: > Anastasia Kobzeva, Computational Linguist and PhD Candidate at NTNU 
+description: > 
+  Anastasia Kobzeva, Computational Linguist and PhD Candidate at NTNU 
   
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
