@@ -22,4 +22,4 @@ I am a PhD Candidate at Norwegian University of Science and Technology (NTNU), s
 
 I am in the final stages of a PhD in Computational Psycholinguistics -- at the intersection of Language Acquisition, Computational Linguistics, and Experimental Syntax. For my PhD-project, I trained several statistical and neural language models to explore their ability to learn a specific linguistic phenomenon in Norwegian -- namely, filler-gap dependencies and island constraints on them. Currently, I am writing my dissertation on what these models and their successes and failures can reveal about the nature of human language learning and the input data which humans and models learn from. In my research, I am committed to adhering to open science practices.
 
-**Job opportunity announcement:** I am currently looking for industry positions within natural language processing or data science in (and around) Oslo, starting from January 2025.
+**Job opportunity announcement:** I am currently looking for industry positions within natural language processing or data science/analysis in (and around) Oslo, starting in spring 2025.
